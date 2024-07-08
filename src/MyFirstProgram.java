@@ -1,9 +1,9 @@
 public class MyFirstProgram {
 
 
-    public static int superMethod(int a, int b) {
+    public static int superMethod(int a, int b, int c) {
 
-        return a + b;
+        return a + b + c;
     }
 
 
