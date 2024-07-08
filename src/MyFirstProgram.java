@@ -7,6 +7,8 @@ public class MyFirstProgram {
             System.out.print(i);
 
         }
+
+        System.out.println("new feature user registration");
     }
 }
 
